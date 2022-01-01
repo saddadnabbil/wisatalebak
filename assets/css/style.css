@@ -461,6 +461,10 @@ table {
     width: 380px;
     transition: ease 0.5s;
   }
+
+  select {
+    white-space:pre;
+  }
   
   .message {
     background-color: #ebebeb;
